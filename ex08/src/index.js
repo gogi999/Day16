@@ -11,7 +11,7 @@ class Person {
     }
 }
 
-const person = new Person("Goran", "gogi9@email.com", 47);
-console.log(person.getPerson());
+// const person = new Person("Goran", "gogi9@email.com", 47);
+// console.log(person.getPerson());
 
 module.exports = Person;
